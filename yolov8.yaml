@@ -1,0 +1,6 @@
+train: D:\User\Work\RA\ML\yolov8\train
+val: D:\User\Work\RA\ML\yolov8\val
+
+nc: 1
+
+name: ["Hat"]
